@@ -18,4 +18,4 @@ Nota: cuando creé el repositorio no sabia usar GitHub, asi que la version que a
 Note: when I created this repository I didn't know how to use GitHub so the version that you can see on this screen is outdated (it is the first version). To download the latest version you should go to "releases"
 
 
-Also, I'm not the author of windows and office activators: @github/massgravel is
+Also, I'm not the author of windows and office activators: [@massgravel]( https://github.com/massgravel/Microsoft-Activation-Scripts ) is
