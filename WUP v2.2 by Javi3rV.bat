@@ -726,7 +726,7 @@ timeout /t 3 /nobreak >nul
 echo.
 echo. Fake virus stored at the same folder as WUP: %~dp0
 echo.
-echo. To stop this virus, you have to end "Microsoft Windows Based Script Host" tasks with the task manager or ask the developer for the HydraStopper.
+echo. To stop this virus, you have to end "Microsoft Windows Based Script Host" tasks with the task manager.
 pause
 cd /D %SYSTEMROOT%\system32
 goto DMENUENG
